@@ -1,4 +1,4 @@
-<img alt="Genome-Resolved 16S Pathogenicity Prediction" src="assets/pipeline_overview.png" />
+<img alt="Genome-Resolved 16S Pathogenicity Prediction" src="docs/workflow_16s.png" />
 
 # Wastewater 16S Pathogenicity Prediction
 
